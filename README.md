@@ -12,7 +12,7 @@ The model achieves **high accuracy and efficiency** through optimized preprocess
 - Used **Grad-CAM visualizations** for model interpretability.  
 - Datasets sourced from:
   - [Plant Village](https://www.kaggle.com/datasets/emmarex/plantdisease)
-  - [Cotton Leaf Infection Dataset]
+  - [Cotton Leaf Infection Dataset](https://www.kaggle.com/datasets/janmejaybhoi/cotton-leaf-disease-dataset)
 - Implemented and trained using the **Adam optimizer** for optimal convergence.
 
 ---
